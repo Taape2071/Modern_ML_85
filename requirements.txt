@@ -1,0 +1,18 @@
+Required libraries/packages:
+
+catboost
+lightgbm
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+torch
+xgboost
+
+ALSO NEED THESE FILES IN THE SAME FOLDER:
+
+prediction_mapping.csv
+receivals.csv
+purchase_orders.csv
